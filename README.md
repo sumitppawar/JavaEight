@@ -61,5 +61,8 @@ jjs> welcome
 	Adding delimiter between string. join() static method on string. 
 #### [StringJoiner Class](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseStringJoinerClass.java)
 	Joining using  java.util.StringJoiner class. We can add delimiter, prefix, suffix
+#### [New Methods on Object class]()
+#### [Base64 class]()
+#### [New Method on collection]()
 
  
