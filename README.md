@@ -1,6 +1,8 @@
 # Java 8
 ---
-Introduction to new things in java 8
+Introduction to new things in java 8.
+> Use link to see example of relevant title.
+
 ### What is lambda expression ?
     Lambda expression is nothing but an anonymous function.
 ### [Functional Interface](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseFunctionalInterface.java)
