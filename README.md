@@ -1,5 +1,5 @@
 # Java 8
----
+
 Introduction to new things in java 8.
 > Use link to see example of relevant title.
 
@@ -55,5 +55,11 @@ jjs> welcome
 ```
 ### [Execute Js file using nashorn](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseNashornExecuteJsFile.java)
     How execute javscript file using nashorn ?
+    
+### Improvements
+#### [String.join](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseStringJoinMethod.java)
+	Adding delimiter between string. join() static method on string. 
+#### [StringJoiner Class](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseStringJoinerClass.java)
+	Joining using  java.util.StringJoiner class. We can add delimiter, prefix, suffix
 
  
