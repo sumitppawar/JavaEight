@@ -16,10 +16,16 @@ java.util.function.*
 java.util.function.Predicate
 java.util.function.Consumer
 ```
-### [Optional](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseOptional.java) 
+### Method Reference 
+#### [Static Method Reference](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseStaticMethodReference.java)
+	list.forEach(p -> Person::getInfo)
+#### [Instance Method Reference](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UserInstanceMethodReference.java)
+	list.forEach(p -> personObject::getInfo)
+ 
+#### [Optional](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseOptional.java) 
     Way to deal with null value.
     java.util.Optional.of(new Person(23, "Sumit"))
-### [Traveling Collection](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseOfForEachMethod.java)
+#### [Traveling Collection](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseOfForEachMethod.java)
     forEach(Consumer con) method added to collection  
 ### Stream API
 #### [Sequential Stream](https://github.com/sumitppawar/JavaEight/blob/master/src/com/sumit/learn/java8/UseSequentialStream.java)
